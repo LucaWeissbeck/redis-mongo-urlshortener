@@ -1,2 +1,2 @@
 # redis-mongo-urlshortener
-Fabulous url shortener using MongoDB and Redis for caching
+Fabulous url shortener using Express, MongoDB and Redis for caching
